@@ -37,8 +37,8 @@ Los usuarios deberían poder:
 
 ### Enlaces
 
-- URL de la solución: [GitHub](https://your-solution-url.com)
-- URL del sitio en vivo: [Vercel](https://your-live-site-url.com)
+- URL de la solución: [GitHub](https://github.com/jean266/componente-resumen-de-resultado)
+- URL del sitio en vivo: [Vercel](https://componente-resumen-de-resultado.vercel.app/)
 
 ## Mi proceso
 
