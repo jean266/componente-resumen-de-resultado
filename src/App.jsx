@@ -12,7 +12,7 @@ function App() {
   useEffect( () => {
     const getData = async () => {
       try {
-        const anwser = await fetch(`${urlCurrent}/public/data.json`);
+        const anwser = await fetch(`${urlCurrent}/data.json`);
         const result = await anwser.json();
         return setData(result)
       } catch (error) {
